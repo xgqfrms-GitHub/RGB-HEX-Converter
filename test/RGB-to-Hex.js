@@ -1,7 +1,7 @@
 //RGB-to-Hex Color Converter
 //http://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
 //http://rgbhex.websanova.com/
-// https://campushippo.com/lessons/how-to-convert-rgb-colors-to-hexadecimal-with-javascript-78219fdb
+//https://campushippo.com/lessons/how-to-convert-rgb-colors-to-hexadecimal-with-javascript-78219fdb
 
 function componentToHex(c) {
     var hex = c.toString(16);
